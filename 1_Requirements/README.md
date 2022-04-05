@@ -4,15 +4,18 @@
 * High Level and Low Level Requirements.
 
 ## High level requirements
-* The application should allow to traverse options.
-* The application should allow to enter details.
-* The application should allow to view the list of bike details.
-* The application should allow to delete the bike details.
-     
+|ID|Description |
+|---|----------|
+|HLR1|App shall allow to enter bike details|
+|HLR2|App shall allow traverse |
+|HLR3|App shall allow to view bike details|
+|HLR4|App shall allow delete bike deatils|
 
 ## Low level requirments
-* The application will ask to enter bike details like bike name,bike year/model,CC.
-* Save a new contact
+|ID|Description |
+|---|----------|
+|LLR1|App will ask to enter name,model,cc,breaks |
+|LLR2|App save records|
 ## SWOT 
 
 ### Strength
