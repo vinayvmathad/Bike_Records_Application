@@ -16,6 +16,7 @@
 |---|----------|
 |LLR1|App will ask to enter name,model,cc,breaks |
 |LLR2|App save records|
+|LLR3|App shall allow to search using chasis number|
 ## SWOT 
 
 ### Strength
