@@ -41,6 +41,6 @@
 ### When 
 - It is used to know the bike when ever we see the bike.
 ### Where
-- It can be used in rentals ,bike enthusiasts.
+- It can be used in bike enthusiasts.
 ### How 
 - This application is created by using python programming language. 
